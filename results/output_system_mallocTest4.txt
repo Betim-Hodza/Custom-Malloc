@@ -1,0 +1,6 @@
+Repeated Allocations and Frees Test #4
+Iterations: 100
+Allocations per Iteration: 1000
+Execution Time: 0.004989 seconds
+sys maxheap: 0
+Free Blocks: 114

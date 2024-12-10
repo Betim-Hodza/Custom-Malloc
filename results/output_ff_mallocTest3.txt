@@ -1,0 +1,20 @@
+Mixed Size Allocations Test #3
+Total Allocations: 10000
+Execution Time: 0.336301 seconds
+sys maxheap: 0
+Free Blocks: 1
+
+heap management statistics
+mallocs:	10001
+frees:		10000
+reuses:		1
+grows:		10000
+splits:		1
+coalesces:	9999
+blocks:		2
+requested:	5024096
+max heap:	5340000
+Total Free Memory: 0 bytes
+Largest Free Block: 0 bytes
+Free Blocks: 0
+Fragmentation Ratio: 0.000000

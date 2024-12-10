@@ -1,0 +1,21 @@
+Stress Test with High Memory Demand #5
+Total Blocks Allocated: 1024
+Total Memory Allocated: 1024 MB
+Execution Time: 0.006984 seconds
+sys maxheap: 0
+Free Blocks: 1
+
+heap management statistics
+mallocs:	1025
+frees:		1024
+reuses:		1
+grows:		1024
+splits:		1
+coalesces:	1023
+blocks:		2
+requested:	1073745920
+max heap:	1073774592
+Total Free Memory: 0 bytes
+Largest Free Block: 0 bytes
+Free Blocks: 0
+Fragmentation Ratio: 0.000000

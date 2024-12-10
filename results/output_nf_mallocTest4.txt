@@ -1,0 +1,21 @@
+Repeated Allocations and Frees Test #4
+Iterations: 100
+Allocations per Iteration: 1000
+Execution Time: 0.299353 seconds
+sys maxheap: 0
+Free Blocks: 1
+
+heap management statistics
+mallocs:	100001
+frees:		100000
+reuses:		100
+grows:		99901
+splits:		100
+coalesces:	99900
+blocks:		101
+requested:	25782288
+max heap:	28946944
+Total Free Memory: 0 bytes
+Largest Free Block: 0 bytes
+Free Blocks: 0
+Fragmentation Ratio: 0.000000

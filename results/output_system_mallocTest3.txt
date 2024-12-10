@@ -1,0 +1,5 @@
+Mixed Size Allocations Test #3
+Total Allocations: 10000
+Execution Time: 0.002722 seconds
+sys maxheap: 0
+Free Blocks: 63

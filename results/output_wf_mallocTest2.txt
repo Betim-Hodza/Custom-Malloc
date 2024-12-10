@@ -1,0 +1,92 @@
+Allocated block 0: size 403 bytes at 0x5a8e17238020
+Allocated block 1: size 847 bytes at 0x5a8e172391f4
+Allocated block 2: size 409 bytes at 0x5a8e17239564
+Allocated block 3: size 630 bytes at 0x5a8e17239720
+Allocated block 4: size 1020 bytes at 0x5a8e172399b8
+Allocated block 5: size 455 bytes at 0x5a8e17239dd4
+Allocated block 6: size 263 bytes at 0x5a8e17239fbc
+Allocated block 7: size 626 bytes at 0x5a8e1723a0e4
+Allocated block 8: size 629 bytes at 0x5a8e1723a378
+Allocated block 9: size 317 bytes at 0x5a8e1723a610
+Allocated block 10: size 610 bytes at 0x5a8e1723a770
+Allocated block 11: size 618 bytes at 0x5a8e1723a9f4
+Allocated block 12: size 56 bytes at 0x5a8e1723ac80
+Allocated block 13: size 251 bytes at 0x5a8e1723acd8
+Allocated block 14: size 430 bytes at 0x5a8e1723adf4
+Allocated block 15: size 174 bytes at 0x5a8e1723afc4
+Allocated block 16: size 371 bytes at 0x5a8e1723b094
+Allocated block 17: size 802 bytes at 0x5a8e1723b228
+Allocated block 18: size 543 bytes at 0x5a8e1723b56c
+Allocated block 19: size 763 bytes at 0x5a8e1723b7ac
+Freed block 0 at 0x5a8e17238020
+Freed block 2 at 0x5a8e17239564
+Freed block 4 at 0x5a8e172399b8
+Freed block 6 at 0x5a8e17239fbc
+Freed block 8 at 0x5a8e1723a378
+Freed block 10 at 0x5a8e1723a770
+Freed block 12 at 0x5a8e1723ac80
+Freed block 14 at 0x5a8e1723adf4
+Freed block 16 at 0x5a8e1723b094
+Freed block 18 at 0x5a8e1723b56c
+Re-allocated block 0: size 403 bytes at 0x5a8e172399b8
+Re-allocated block 2: size 409 bytes at 0x5a8e1723a378
+Re-allocated block 4: size 1020 bytes at 0x5a8e1723bac8
+Re-allocated block 6: size 263 bytes at 0x5a8e1723a770
+Re-allocated block 8: size 629 bytes at 0x5a8e1723bee4
+Re-allocated block 10: size 610 bytes at 0x5a8e1723c17c
+Re-allocated block 12: size 56 bytes at 0x5a8e1723b56c
+Re-allocated block 14: size 430 bytes at 0x5a8e1723adf4
+Re-allocated block 16: size 371 bytes at 0x5a8e17239564
+Re-allocated block 18: size 543 bytes at 0x5a8e1723c400
+Allocated large block: size 1842 bytes at 0x5a8e1723c640
+Allocated large block: size 1550 bytes at 0x5a8e1723c640
+Allocated large block: size 1742 bytes at 0x5a8e1723c640
+Allocated large block: size 1173 bytes at 0x5a8e1723c640
+Allocated large block: size 1370 bytes at 0x5a8e1723c640
+Allocated large block: size 1620 bytes at 0x5a8e1723c640
+Allocated large block: size 1346 bytes at 0x5a8e1723c640
+Allocated large block: size 1206 bytes at 0x5a8e1723c640
+Allocated large block: size 1359 bytes at 0x5a8e1723c640
+Allocated large block: size 1473 bytes at 0x5a8e1723c640
+Freed block 0 at 0x5a8e172399b8
+Freed block 1 at 0x5a8e172391f4
+Freed block 2 at 0x5a8e1723a378
+Freed block 3 at 0x5a8e17239720
+Freed block 4 at 0x5a8e1723bac8
+Freed block 5 at 0x5a8e17239dd4
+Freed block 6 at 0x5a8e1723a770
+Freed block 7 at 0x5a8e1723a0e4
+Freed block 8 at 0x5a8e1723bee4
+Freed block 9 at 0x5a8e1723a610
+Freed block 10 at 0x5a8e1723c17c
+Freed block 11 at 0x5a8e1723a9f4
+Freed block 12 at 0x5a8e1723b56c
+Freed block 13 at 0x5a8e1723acd8
+Freed block 14 at 0x5a8e1723adf4
+Freed block 15 at 0x5a8e1723afc4
+Freed block 16 at 0x5a8e17239564
+Freed block 17 at 0x5a8e1723b228
+Freed block 18 at 0x5a8e1723c400
+Freed block 19 at 0x5a8e1723b7ac
+
+Controlled Allocations and Frees Test #2
+Total Allocations: 40
+Total Frees: 40
+Execution Time: 0.000103 seconds
+System Max Heap: 0 bytes
+Free Blocks: 1
+
+heap management statistics
+mallocs:	41
+frees:		40
+reuses:		15
+grows:		26
+splits:		14
+coalesces:	24
+blocks:		16
+requested:	33792
+max heap:	19828
+Total Free Memory: 15092 bytes
+Largest Free Block: 4780 bytes
+Free Blocks: 19
+Fragmentation Ratio: 0.683276

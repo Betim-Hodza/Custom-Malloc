@@ -1,0 +1,5 @@
+10000 allocationsTest #1
+Total Allocations: 10000
+Execution Time: 0.000929 seconds
+sys maxheap: 5776
+Free Blocks: 1
